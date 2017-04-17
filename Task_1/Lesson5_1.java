@@ -4,6 +4,7 @@ import java.util.GregorianCalendar;
 import java.util.Locale;
 import java.util.Calendar;
 
+// стараемся писать переиспользуемый код. эту задачу следовало оформить отдельным классом
 public class Lesson5_1 {
 
 	public static void main(String[] args) {
